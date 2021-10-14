@@ -1,1 +1,3 @@
 red is my favorite colour
+Hi
+Hello
